@@ -17,7 +17,7 @@
     "babel-eslint": "^10.0.3",
     "blueimp-load-image": "^2.24.0",
     "buffer": "^5.4.3",
-    "date-fns": "^2.5.0",
+    "date-fns": "^2.28.0",
     "elliptic": "^6.5.1",
     "eslint": "^6.4.0",
     "eslint-config-airbnb-base": "^14.0.0",
